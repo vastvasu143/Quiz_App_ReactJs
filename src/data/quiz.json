@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "question": "What was Charlie Chaplin's full name?",
+      "choices": ["Charles Richard Chaplin", "Charles David Chaplin", "Charles Spencer Chaplin", "Charles 777 Chaplin"],
+      "answer": "Charles Spencer Chaplin"
+    },
+    {
+      "question": "What was Johnny Depp's debut movie??",
+      "choices": ["A Nightmare on Elm Street","Cry-Baby", "Maribor","Charlie and the Chocolate Factory"],
+      "answer": "A Nightmare on Elm Street"
+    },
+    {
+      "question": "Who is founder of Janasena Party?",
+      "choices": ["Ramcharan", "Nagababu", "PawanKalyan", "Megastar Chiranjeevi"],
+      "answer": "PawanKalyan"
+    },
+    {
+      "question": "Which Bollywood celebrity is the brand ambassador for the Chinese smartphone firm Tecno?",
+      "choices": ["Amithab Bachan", "Sharukh Khan", "Ayushmann Khurana", "Salman Khan"],
+      "answer": "Ayushmann Khurana"
+    },
+    {
+      "question": "In which movie did Tamanna act with hero ram ?",
+      "choices": ["Happy days", "Ready", "Veedokade", "Doctor"],
+      "answer": "Ready"
+    },
+    {
+      "question": "Sr.NTR First Movie ?",
+      "choices": ["Mana desham", "Yamaleela", "Nayak", "Pathala bairavi"],
+      "answer": "Mana desham"
+    },
+    {
+      "question": "Who is the director of the movie Jalsa??",
+      "choices": ["V.V Vinayak", "Trivikram", "Sreenu Vaitla", "SS Rajamouli"],
+      "answer": "Trivikram"
+    },
+    {
+      "question": "Who is the youngest music composer joining the film industry at the age of 16?",
+      "choices": ["Harris Jayaraj", "Yuvan Shankar Raja", "A.R Rahman", "G V Prakash"],
+      "answer": "Yuvan Shankar Raja"
+    },
+    {
+      "question": "Who is CEO of INDIA ? According to KGF-Part 2?",
+      "choices": ["Rockybhai", "MunnaBhai", "Adheera", "Garuda"],
+      "answer": "Rockybhai"
+    }
+  ]
+}
